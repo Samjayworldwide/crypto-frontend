@@ -1,0 +1,23 @@
+.first-header {
+    text-transform: uppercase;
+    color: #1e3a8a;
+    font-weight: 100px;
+}
+
+.header {
+    color: #1e3a8a;
+}
+
+.inner-container {
+    border: 1px solid #1e3a8a;
+    border-radius: 30px;
+    border-width: 10px;
+    margin-bottom: 40px;
+    background-color: #fff;
+}
+
+.paragraph {
+    color: #1e3a8a;
+    padding-bottom: 20px;
+    font-weight: 50px;
+}
